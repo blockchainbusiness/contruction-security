@@ -17,9 +17,9 @@ Shareholder 1
 
 Shareholder 2
 
-Our objective is to create a CorDapp to replicate the actions of the Security Trustee.
+Our objective is to create a CorDapp to replicate the actions of the Security Trustee.  The functions of a security trustee are to act as a custodian for the following:
 
-The functions of a security trustee are to act as a custodian for the following:
+
 Loan Agreement (From the Lenders)
 
 Security Agreements (from the SPV)
