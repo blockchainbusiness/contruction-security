@@ -2,13 +2,13 @@
 
 Stakeholders:
 
-Special Purpose Vehicle
-Lenders
-Security Trustee (Our Team)
-Contractor
-Off takers
-Shareholder 1
-Shareholder 2
+Special Purpose Vehicle,
+Lenders,
+Security Trustee (Our Team),
+Contractor,
+Off takers,
+Shareholder 1,
+Shareholder 2.
 
 Our objective is to create a CorDapp to replicate the actions of the Security Trustee.
 
