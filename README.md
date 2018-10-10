@@ -3,19 +3,20 @@
 
 The Stakeholders:
 
-Special Purpose Vehicle
+1. Special Purpose Vehicle
 
-Lenders
+2. Lenders
 
-Security Trustee (Our Team)
+3. Security Trustee (Our Team)
 
-Contractor
+4. Contractor
 
-Off takers
+5. Off takers
 
-Shareholder 1
+6. Shareholder 1
 
-Shareholder 2
+7. Shareholder 2
+
 
 Our objective is to create a CorDapp to replicate the actions of the Security Trustee.  The functions of a security trustee are to act as a custodian for the following:
 
