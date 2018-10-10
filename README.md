@@ -23,7 +23,7 @@ Our objective is to create a CorDapp to replicate the actions of the Security Tr
 
 Loan Agreement (From the Lenders)
 
-Security Agreements (from the SPV)
+Security Agreements (from the SPV)  Note: - Security Structure is another term frquently used
 
 Direct Agreements (from Off Taker and Contractor)
 
