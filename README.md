@@ -72,4 +72,19 @@ Some questions we should all think about before the next meetup:
 Essentially we will be recieving inputs from the SPV, Contractor and Offtakers (governement or end buyer)
 These inputs will be the loan agreement, security agreement and direct agreements (2).  As the security trustee we will be responsible for securing the ownership of the entire project, a very big responisibility.
 
-Please update as you see fit, Ill be adding more material shortly!
+Useful links:
+
+http://wiki.designcomputation.org/home/index.php/Project_Finance (CBC WIKI - MOST MATERIAL IS ON HERE)
+
+https://blog.zlien.com/construction-credit/security-agreement-how-to-draft-one-that-works/ (WHAT IS A SECURITY AGREEMENT?)
+
+https://www.heathrow.com/file_source/Company/Static/PDF/Investorcentre/conformed_stid_BAA.pdf (AN ACTUAL SECURITY AGREEMENT)
+
+https://www.youtube.com/watch?v=D7nSTAhK7_g (AN INTERESTING VIDEO ABOUT TRUSTS AND HOW THEY ALLOCATE TRUST UNITS - QUITE LONG)
+
+https://www.youtube.com/watch?v=8sKjMygDl84 (VERY GOOD VIDEO ABOUT PROJECT INFRASTRUCTURE FINANCE - A MUST WATCH BUT LONG)
+
+
+
+
+http://moorishdirectory.com/wp-content/uploads/2015/06/Trustee_Handbook_1.pdf (HOW DO TRUSTS WORK?)
