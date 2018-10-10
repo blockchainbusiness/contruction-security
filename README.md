@@ -1,7 +1,7 @@
 # contruction-security
 
 
-Stakeholders:
+The Stakeholders:
 
 Special Purpose Vehicle
 
