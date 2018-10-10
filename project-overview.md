@@ -75,9 +75,6 @@ Useful links:
 
 http://wiki.designcomputation.org/home/index.php/Project_Finance (CBC WIKI - MOST MATERIAL IS ON HERE)
 
-https://blog.zlien.com/construction-credit/security-agreement-how-to-draft-one-that-works/ (WHAT IS A SECURITY AGREEMENT?)
-
-https://www.heathrow.com/file_source/Company/Static/PDF/Investorcentre/conformed_stid_BAA.pdf (AN ACTUAL SECURITY AGREEMENT)
 
 https://www.youtube.com/watch?v=D7nSTAhK7_g (AN INTERESTING VIDEO ABOUT TRUSTS AND HOW THEY ALLOCATE TRUST UNITS - QUITE LONG)
 
