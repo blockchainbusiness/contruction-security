@@ -67,9 +67,9 @@ Some questions we should all think about before the next meetup:
 5. How can we prevent a “double spend” scenario for these assets? E.g Trust deeds etc - Can we treat them like the IOU example here: https://docs.corda.net/tutorial-cordapp.html#creating-an-iou-via-the-endpoint
 
 
-
 Essentially we will be recieving inputs from the SPV, Contractor and Offtakers (governement or end buyer)
-These inputs will be the loan agreement, security agreement and direct agreements (2).  As the security trustee we will be responsible for securing the ownership of the entire project, a very big responisibility (in a real world scenario).
+These inputs will be the loan agreement, security agreement and direct agreements (2).  As the security trustee we have to ensure that our cordapp works as expected, in a real world scenario the security trustee is a big responsibility.
+
 
 Useful links:
 
