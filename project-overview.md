@@ -69,7 +69,7 @@ Some questions we should all think about before the next meetup:
 
 
 Essentially we will be recieving inputs from the SPV, Contractor and Offtakers (governement or end buyer)
-These inputs will be the loan agreement, security agreement and direct agreements (2).  As the security trustee we will be responsible for securing the ownership of the entire project, a very big responisibility.
+These inputs will be the loan agreement, security agreement and direct agreements (2).  As the security trustee we will be responsible for securing the ownership of the entire project, a very big responisibility (in a real world scenario).
 
 Useful links:
 
